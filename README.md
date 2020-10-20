@@ -1,2 +1,2 @@
 # booma
-live demo >> booma.netlify.app
+live demo >> https://booma.netlify.app
