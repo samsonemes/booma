@@ -1,2 +1,5 @@
-# booma
-live demo >> https://booma.netlify.app
+## booma 
+music portfolio page
+
+## Demo
+https://booma.netlify.app
